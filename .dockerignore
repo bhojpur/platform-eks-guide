@@ -1,0 +1,17 @@
+node_modules
+
+cdk.context.json
+
+.env
+bhojpur-values.yaml
+bhojpur-ingress.yaml
+
+.kubeconfig*
+
+eks-cluster.yaml
+
+.git
+.husky
+.github
+
+config.json
