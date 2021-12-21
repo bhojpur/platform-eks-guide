@@ -1,4 +1,4 @@
-# Bhojpur.NET Platform in Amazon EKS
+# Bhojpur.NET Platform on Amazon EKS
 To run Bhojpur.NET Platform in [Amazon EKS](https://aws.amazon.com/en/eks/)
 
 ## Provision an AWS EKS cluster
