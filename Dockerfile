@@ -1,6 +1,6 @@
 ARG BHOJPUR_VERSION="main.1973"
 
-FROM ap.gcr.io/bhojpur/build/installer:$BHOJPUR_VERSION as installer
+FROM us-west2-docker.pkg.dev/bhojpur/platform/build/installer:$BHOJPUR_VERSION as installer
 
 FROM alpine:edge
 
