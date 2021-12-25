@@ -72,10 +72,10 @@ proxy-56c4cdd799-bbfbx             1/1     Running   0          5m33s
 registry-6b75f99844-bhhqd          1/1     Running   0          4h11m
 registry-facade-f7twj              2/2     Running   0          6m12s
 server-64f9cf6b9b-bllgg            2/2     Running   0          6m16s
-ws-daemon-bh6h6                    2/2     Running   0          2m47s
-ws-manager-5d57746845-t74n5        2/2     Running   0          6m16s
-ws-manager-bridge-79f7fcb5-7w4p5   1/1     Running   0          6m16s
-ws-proxy-7fc9665-rchr9             1/1     Running   0          5m57s
+bp-daemon-bh6h6                    2/2     Running   0          2m47s
+bp-manager-5d57746845-t74n5        2/2     Running   0          6m16s
+bp-manager-bridge-79f7fcb5-7w4p5   1/1     Running   0          6m16s
+bp-proxy-7fc9665-rchr9             1/1     Running   0          5m57s
 ```
 
 TODO: add additional `kubectl log` commands
