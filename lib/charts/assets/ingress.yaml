@@ -14,7 +14,7 @@ metadata:
         }
       }
     alb.ingress.kubernetes.io/tags: Purpose=Bhojpur,Service=proxy
-    alb.ingress.kubernetes.io/target-node-labels: bhojpur.net/workload_workspace_services=true
+    alb.ingress.kubernetes.io/target-node-labels: bhojpur.net/workload_application_services=true
     alb.ingress.kubernetes.io/healthcheck-protocol: HTTPS
     alb.ingress.kubernetes.io/backend-protocol: HTTPS
     alb.ingress.kubernetes.io/listen-ports: >-
